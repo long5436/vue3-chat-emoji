@@ -54,9 +54,9 @@ app.mount("#app");
 
 #### Events
 
-| Name    | Description                    |
-| ------- | ------------------------------ |
-| `click` | Emitted when emoji is clicked. |
+| Name     | Description                    |
+| -------- | ------------------------------ |
+| `handle` | Emitted when emoji is clicked. |
 
 ```vue
 <script setup>
